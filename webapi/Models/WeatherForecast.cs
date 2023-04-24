@@ -1,4 +1,4 @@
-namespace webapi.Controllers;
+namespace webapi.Models;
 
 public class WeatherForecast
 {
